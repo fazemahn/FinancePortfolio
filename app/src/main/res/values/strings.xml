@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Finance Portfolio</string>
+    <string name="prompt_P">Principal Amount</string>
+    <string name="prompt_R">Rate of Return</string>
+    <string name="prompt_N">Number of Months</string>
+</resources>
